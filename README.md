@@ -1,1 +1,1 @@
-"# calculo_numerico_Raizes_func" 
+# Trabalho da disciplina de Cálculo Numéricos"
